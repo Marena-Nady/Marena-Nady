@@ -1,0 +1,8 @@
+[ReportManager] Successfully created attachment 'SHAFT Engine Logs - Execution log' @12-02-2024 15:05:32.0107 PM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/logs/log4j.log"". @12-02-2024 15:05:32.0108 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "target/logs/log4j.log"". @12-02-2024 15:05:32.0109 PM
+[ReportManager] File Action "ReadFileAsByteArray" successfully performed. With the following test data "File Path: "C:\Users\Marena.Nady\IdeaProjects\Automation_Task_Login\target\logs\log4j.log"". @12-02-2024 15:05:32.0117 PM
+[ReportManager] File Action "DeleteFile" successfully performed. With the following test data "Target File Path: "target/logs/log4j.log", file was not deleted.". @12-02-2024 15:05:32.0119 PM
+[ReportManager] Successfully created attachment 'SHAFT Engine Logs - Execution log: 20240212-150532' @12-02-2024 15:05:32.0122 PM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "allure-results/cucumberReport.html"". @12-02-2024 15:05:33.0302 PM
+[ReportManager] Successfully created attachment 'HTML - Checkpoints Report' @12-02-2024 15:05:33.0312 PM

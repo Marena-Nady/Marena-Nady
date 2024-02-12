@@ -1,0 +1,9 @@
+[ReportManager] Setting "targetOperatingSystem" property with "windows". @12-02-2024 15:04:49.0399 PM
+[ReportManager] Capabilities {acceptInsecureCerts: true, browserName: chrome, goog:chromeOptions: {args: [--start-maximized], extensions: [], prefs: {download.default_directory: C:\Users\Marena.Nady\IdeaPr..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: normal, timeouts: {pageLoad: 60000, script: 60000}, unhandledPromptBehavior: ignore, webSocketUrl: true} @12-02-2024 15:04:49.0461 PM
+[ReportManager] Attempting to run locally on: "windows | Chrome". @12-02-2024 15:04:49.0463 PM
+[ReportManager] Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection... @12-02-2024 15:04:49.0464 PM
+[ReportManager] Successfully Opened: "windows | Chrome". @12-02-2024 15:04:55.0240 PM
+[ReportManager] Target URL: "https://www.saucedemo.com/" @12-02-2024 15:04:55.0423 PM
+[ReportManager] Initial URL: "about:blank" @12-02-2024 15:04:55.0586 PM
+[ReportManager] Navigate to url "https://www.saucedemo.com/". @12-02-2024 15:05:06.0370 PM
+[ReportManager] Setting "attemptClearBeforeTyping" property with "true". @12-02-2024 15:05:06.0377 PM

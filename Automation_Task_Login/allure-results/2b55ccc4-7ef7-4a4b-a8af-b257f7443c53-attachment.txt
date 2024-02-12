@@ -1,0 +1,17 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '8 out of 8' test cases in the current suite                                        
+                                           Test Method: 'Test_Scenarios.T01_Login.loginWithValidData'                                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] text cleared Using Native Clear @12-02-2024 15:05:12.0492 PM
+[ReportManager] Type "standard_user" into "Username". @12-02-2024 15:05:12.0786 PM
+[ReportManager] text cleared Using Native Clear @12-02-2024 15:05:13.0133 PM
+[ReportManager] Type "secret_sauce" into "Password". @12-02-2024 15:05:13.0282 PM
+[ReportManager] Moved the mouse to the middle of the element. @12-02-2024 15:05:13.0568 PM
+[ReportManager] Click "Login". @12-02-2024 15:05:13.0809 PM
+[ReportManager] Get current url "https://www.saucedemo.com/inventory.html". @12-02-2024 15:05:13.0981 PM
+[ReportManager] Expected "https://www.saucedemo.com/inventory.html", and actual "https://www.saucedemo.com/inventory.html" @12-02-2024 15:05:13.0982 PM
+[ReportManager] Assertion "ValidateBrowserAttribute" PASSED. Expected "Value Should be 'https://www.saucedemo.com/inventory.html' for the 'currenturl' attribute" and Actual "https://www.saucedemo.com/inventory.html". Comparison Type "EQUALS". Validation Type "POSITIVE". @12-02-2024 15:05:14.0866 PM
+[ReportManager] Assertion Passed: The Browser URL is equal to "https://www.saucedemo.com/inventory.html". @12-02-2024 15:05:14.0867 PM
+[ReportManager] Successfully created attachment 'Screenshot - 1707743114257_loginWithValidData_ValidateBrowserAttribute_passed' @12-02-2024 15:05:14.0874 PM

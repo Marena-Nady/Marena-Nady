@@ -1,0 +1,532 @@
+[INFO ] 2024-02-12 15:04:25.054 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                    Powered by [1mSHAFT v.8.1.20240115[22m                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:25.090 [main] ReportManager - Checking for engine updates...
+[INFO ] 2024-02-12 15:04:25.123 [main] ReportManager - Engine Update check done for the day. 👍
+[INFO ] 2024-02-12 15:04:26.446 [main] ReportManager - Loaded OpenCV "opencv_java490".
+[INFO ] 2024-02-12 15:04:26.447 [main] ReportManager - Initializing Allure Reporting Environment...
+[INFO ] 2024-02-12 15:04:26.822 [main] ReportManager - Initializing Extent Reporting Environment...
+[INFO ] 2024-02-12 15:04:28.116 [main] ReportManager - Initializing Summary Reporting Environment...
+[INFO ] 2024-02-12 15:04:28.190 [main] ReportManager - TestNG run detected...
+[INFO ] 2024-02-12 15:04:28.941 [main] Utils - [TestNG] Running:
+  C:\Users\Marena.Nady\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-02-12 15:04:29.099 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of suite setup configuration method                                             
+                                          'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:29.301 [main] ReportManager - Initializing Important Links...
+[INFO ] 2024-02-12 15:04:29.318 [main] ReportManager - Initializing Properties...
+[INFO ] 2024-02-12 15:04:29.657 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                Starting execution of setup configuration method                                                
+                                                        'Test_Scenarios.T01_Login.setup'                                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:29.751 [main] ReportManager - Setting "targetOperatingSystem" property with "windows".
+[INFO ] 2024-02-12 15:04:29.815 [main] ReportManager - Capabilities {acceptInsecureCerts: true, browserName: chrome, goog:chromeOptions: {args: [--start-maximized], extensions: [], prefs: {download.default_directory: C:\Users\Marena.Nady\IdeaPr..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: normal, timeouts: {pageLoad: 60000, script: 60000}, unhandledPromptBehavior: ignore, webSocketUrl: true}
+[INFO ] 2024-02-12 15:04:29.818 [main] ReportManager - Attempting to run locally on: "windows | Chrome".
+[INFO ] 2024-02-12 15:04:29.820 [main] ReportManager - Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection...
+[INFO ] 2024-02-12 15:04:31.540 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                    Powered by [1mSHAFT v.8.1.20240115[22m                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:31.585 [main] ReportManager - Checking for engine updates...
+[INFO ] 2024-02-12 15:04:31.641 [main] ReportManager - Engine Update check done for the day. 👍
+[INFO ] 2024-02-12 15:04:33.256 [main] ReportManager - Loaded OpenCV "opencv_java490".
+[INFO ] 2024-02-12 15:04:33.258 [main] ReportManager - Initializing Allure Reporting Environment...
+[INFO ] 2024-02-12 15:04:33.764 [main] ReportManager - Initializing Extent Reporting Environment...
+[INFO ] 2024-02-12 15:04:35.705 [main] ReportManager - Initializing Summary Reporting Environment...
+[INFO ] 2024-02-12 15:04:35.735 [main] ReportManager - TestNG run detected...
+[INFO ] 2024-02-12 15:04:36.233 [main] Utils - [TestNG] Running:
+  C:\Users\Marena.Nady\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-02-12 15:04:36.327 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of suite setup configuration method                                             
+                                          'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:36.451 [main] ReportManager - Initializing Important Links...
+[INFO ] 2024-02-12 15:04:36.470 [main] ReportManager - Initializing Properties...
+[INFO ] 2024-02-12 15:04:37.221 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                Starting execution of setup configuration method                                                
+                                                        'Test_Scenarios.T01_Login.setup'                                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:37.308 [main] ReportManager - Setting "targetOperatingSystem" property with "windows".
+[INFO ] 2024-02-12 15:04:37.362 [main] ReportManager - Capabilities {acceptInsecureCerts: true, browserName: chrome, goog:chromeOptions: {args: [--start-maximized], extensions: [], prefs: {download.default_directory: C:\Users\Marena.Nady\IdeaPr..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: normal, timeouts: {pageLoad: 60000, script: 60000}, unhandledPromptBehavior: ignore, webSocketUrl: true}
+[INFO ] 2024-02-12 15:04:37.365 [main] ReportManager - Attempting to run locally on: "windows | Chrome".
+[INFO ] 2024-02-12 15:04:37.367 [main] ReportManager - Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection...
+[INFO ] 2024-02-12 15:04:42.985 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                    Powered by [1mSHAFT v.8.1.20240115[22m                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:43.048 [main] ReportManager - Checking for engine updates...
+[INFO ] 2024-02-12 15:04:43.099 [main] ReportManager - Engine Update check done for the day. 👍
+[WARN ] 2024-02-12 15:04:43.522 [main] ReportManager - Feb 12, 2024 3:04:43 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+[WARN ] 2024-02-12 15:04:43.523 [main] ReportManager - WARNING: Unable to find an exact match for CDP version 121, returning the closest version; found: 120; Please update to a Selenium version that supports CDP version 121
+[INFO ] 2024-02-12 15:04:43.563 [main] ReportManager - Successfully Opened: "windows | Chrome".
+[INFO ] 2024-02-12 15:04:43.832 [main] ReportManager - Target URL: "https://www.saucedemo.com/"
+[INFO ] 2024-02-12 15:04:44.357 [main] ReportManager - Initial URL: "about:blank"
+[INFO ] 2024-02-12 15:04:45.506 [main] ReportManager - Loaded OpenCV "opencv_java490".
+[INFO ] 2024-02-12 15:04:45.508 [main] ReportManager - Initializing Allure Reporting Environment...
+[WARN ] 2024-02-12 15:04:46.274 [main] ReportManager - Feb 12, 2024 3:04:46 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+[WARN ] 2024-02-12 15:04:46.275 [main] ReportManager - WARNING: Unable to find an exact match for CDP version 121, returning the closest version; found: 120; Please update to a Selenium version that supports CDP version 121
+[INFO ] 2024-02-12 15:04:46.300 [main] ReportManager - Successfully Opened: "windows | Chrome".
+[INFO ] 2024-02-12 15:04:46.618 [main] ReportManager - Initializing Extent Reporting Environment...
+[INFO ] 2024-02-12 15:04:46.754 [main] ReportManager - Target URL: "https://www.saucedemo.com/"
+[INFO ] 2024-02-12 15:04:46.823 [main] ReportManager - Navigate to url "https://www.saucedemo.com/".
+[INFO ] 2024-02-12 15:04:46.828 [main] ReportManager - Setting "attemptClearBeforeTyping" property with "true".
+[INFO ] 2024-02-12 15:04:46.837 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: setup'
+[INFO ] 2024-02-12 15:04:46.948 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 8' test cases in the current suite                                        
+                                           Test Method: 'Test_Scenarios.T01_Login.EmptyPasswordField'                                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:47.315 [main] ReportManager - Initial URL: "about:blank"
+[INFO ] 2024-02-12 15:04:48.037 [main] ReportManager - Initializing Summary Reporting Environment...
+[INFO ] 2024-02-12 15:04:48.085 [main] ReportManager - TestNG run detected...
+[INFO ] 2024-02-12 15:04:48.208 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:04:48.472 [main] ReportManager - Type "standard_user" into "Username".
+[INFO ] 2024-02-12 15:04:48.647 [main] Utils - [TestNG] Running:
+  C:\Users\Marena.Nady\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-02-12 15:04:48.765 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of suite setup configuration method                                             
+                                          'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:48.971 [main] ReportManager - Initializing Important Links...
+[INFO ] 2024-02-12 15:04:48.999 [main] ReportManager - Initializing Properties...
+[INFO ] 2024-02-12 15:04:49.000 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:04:49.193 [main] ReportManager - Type into "Password".
+[INFO ] 2024-02-12 15:04:49.310 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                Starting execution of setup configuration method                                                
+                                                        'Test_Scenarios.T01_Login.setup'                                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:49.399 [main] ReportManager - Setting "targetOperatingSystem" property with "windows".
+[INFO ] 2024-02-12 15:04:49.461 [main] ReportManager - Capabilities {acceptInsecureCerts: true, browserName: chrome, goog:chromeOptions: {args: [--start-maximized], extensions: [], prefs: {download.default_directory: C:\Users\Marena.Nady\IdeaPr..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: normal, timeouts: {pageLoad: 60000, script: 60000}, unhandledPromptBehavior: ignore, webSocketUrl: true}
+[INFO ] 2024-02-12 15:04:49.463 [main] ReportManager - Attempting to run locally on: "windows | Chrome".
+[INFO ] 2024-02-12 15:04:49.464 [main] ReportManager - Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection...
+[INFO ] 2024-02-12 15:04:49.669 [main] ReportManager - Navigate to url "https://www.saucedemo.com/".
+[INFO ] 2024-02-12 15:04:49.677 [main] ReportManager - Setting "attemptClearBeforeTyping" property with "true".
+[INFO ] 2024-02-12 15:04:49.688 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: setup'
+[INFO ] 2024-02-12 15:04:49.790 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 8' test cases in the current suite                                        
+                                           Test Method: 'Test_Scenarios.T01_Login.EmptyPasswordField'                                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:49.898 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:04:50.069 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:04:50.602 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:04:50.602 [main] ReportManager - Get text "Epic sadface: Password is required" from "Epic sadface: Password is required".
+[INFO ] 2024-02-12 15:04:50.604 [main] ReportManager - Expected "Epic sadface: Password is required", and actual "Epic sadface: Password is required"
+[INFO ] 2024-02-12 15:04:50.756 [main] ReportManager - Type "standard_user" into "Username".
+[INFO ] 2024-02-12 15:04:51.372 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:04:51.549 [main] ReportManager - Type into "Password".
+[INFO ] 2024-02-12 15:04:52.118 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:04:52.217 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:04:52.559 [main] ReportManager - Get text "Epic sadface: Password is required" from "Epic sadface: Password is required".
+[INFO ] 2024-02-12 15:04:52.561 [main] ReportManager - Expected "Epic sadface: Password is required", and actual "Epic sadface: Password is required"
+[INFO ] 2024-02-12 15:04:54.260 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Password is required' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Password is required". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:04:54.351 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743091920_EmptyPasswordField_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:04:54.371 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: EmptyPasswordField'
+[INFO ] 2024-02-12 15:04:54.372 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                Finished Execution of Test Method: 'Test_Scenarios.T01_Login.EmptyPasswordField'                                
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:54.788 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '2 out of 8' test cases in the current suite                                        
+                                           Test Method: 'Test_Scenarios.T01_Login.EmptyUserNameField'                                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[WARN ] 2024-02-12 15:04:55.199 [main] ReportManager - Feb 12, 2024 3:04:55 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+[WARN ] 2024-02-12 15:04:55.200 [main] ReportManager - WARNING: Unable to find an exact match for CDP version 121, returning the closest version; found: 120; Please update to a Selenium version that supports CDP version 121
+[INFO ] 2024-02-12 15:04:55.241 [main] ReportManager - Successfully Opened: "windows | Chrome".
+[INFO ] 2024-02-12 15:04:55.393 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:04:55.424 [main] ReportManager - Target URL: "https://www.saucedemo.com/"
+[INFO ] 2024-02-12 15:04:55.568 [main] ReportManager - Type "" into "Username".
+[INFO ] 2024-02-12 15:04:55.587 [main] ReportManager - Initial URL: "about:blank"
+[INFO ] 2024-02-12 15:04:55.915 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Password is required' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Password is required". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:04:55.969 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:04:55.995 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743093799_EmptyPasswordField_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:04:56.009 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: EmptyPasswordField'
+[INFO ] 2024-02-12 15:04:56.012 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                Finished Execution of Test Method: 'Test_Scenarios.T01_Login.EmptyPasswordField'                                
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:56.145 [main] ReportManager - Type "secret_sauce" into "Password".
+[INFO ] 2024-02-12 15:04:56.346 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '2 out of 8' test cases in the current suite                                        
+                                           Test Method: 'Test_Scenarios.T01_Login.EmptyUserNameField'                                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:56.458 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:04:56.573 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:04:56.706 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:04:56.829 [main] ReportManager - Type "" into "Username".
+[INFO ] 2024-02-12 15:04:56.857 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:04:56.859 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:04:57.127 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:04:57.292 [main] ReportManager - Type "secret_sauce" into "Password".
+[INFO ] 2024-02-12 15:04:57.583 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:04:57.584 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:04:57.594 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743097387_EmptyUserNameField_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:04:57.600 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: EmptyUserNameField'
+[INFO ] 2024-02-12 15:04:57.600 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                Finished Execution of Test Method: 'Test_Scenarios.T01_Login.EmptyUserNameField'                                
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:57.618 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '3 out of 8' test cases in the current suite                                        
+                                        Test Method: 'Test_Scenarios.T01_Login.MaxLimitForPasswordField'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:57.699 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:04:57.980 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:04:57.980 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:04:57.981 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:04:58.144 [main] ReportManager - Type "standard_user" into "Username".
+[INFO ] 2024-02-12 15:04:58.467 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:04:58.789 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:04:58.804 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743098583_EmptyUserNameField_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:04:58.811 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: EmptyUserNameField'
+[INFO ] 2024-02-12 15:04:58.812 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                Finished Execution of Test Method: 'Test_Scenarios.T01_Login.EmptyUserNameField'                                
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:58.831 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '3 out of 8' test cases in the current suite                                        
+                                        Test Method: 'Test_Scenarios.T01_Login.MaxLimitForPasswordField'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:58.944 [main] ReportManager - Type "secret_saucedfghjkdfjhgrbdnmfgkjvhfbrdenmrk5turielk,dfmngtbv gnfmvcjfhdrbnmftgbrdnemdxbfrhjnmedfkjgnvf" into "Password".
+[INFO ] 2024-02-12 15:04:59.210 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:04:59.242 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:04:59.343 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:04:59.377 [main] ReportManager - Type "standard_user" into "Username".
+[INFO ] 2024-02-12 15:04:59.624 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:04:59.624 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:04:59.666 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:00.145 [main] ReportManager - Type "secret_saucedfghjkdfjhgrbdnmfgkjvhfbrdenmrk5turielk,dfmngtbv gnfmvcjfhdrbnmftgbrdnemdxbfrhjnmedfkjgnvf" into "Password".
+[INFO ] 2024-02-12 15:05:00.350 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:00.371 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743100176_MaxLimitForPasswordField_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:05:00.375 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: MaxLimitForPasswordField'
+[INFO ] 2024-02-12 15:05:00.376 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                             Finished Execution of Test Method: 'Test_Scenarios.T01_Login.MaxLimitForPasswordField'                             
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:00.386 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '4 out of 8' test cases in the current suite                                        
+                                        Test Method: 'Test_Scenarios.T01_Login.MaxLimitForUsernameField'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:00.428 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:00.524 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:00.739 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:00.814 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:05:00.815 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:05:01.305 [main] ReportManager - Type "standard_userfghfjgmkifjcdmnkrtjgfmdkjrhfndejrhfndjfdfndjrehnfjdhenfcdbrnhfcdrjfhrnkkkkkkkkkkkkkngfyhnkju98765678iplhtrfghn@#$%jfdhnrf" into "Username".
+[INFO ] 2024-02-12 15:05:01.598 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:01.608 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743101402_MaxLimitForPasswordField_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:05:01.617 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: MaxLimitForPasswordField'
+[INFO ] 2024-02-12 15:05:01.617 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                             Finished Execution of Test Method: 'Test_Scenarios.T01_Login.MaxLimitForPasswordField'                             
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:01.625 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:01.629 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '4 out of 8' test cases in the current suite                                        
+                                        Test Method: 'Test_Scenarios.T01_Login.MaxLimitForUsernameField'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:01.778 [main] ReportManager - Type "secret_sauce" into "Password".
+[INFO ] 2024-02-12 15:05:02.011 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:02.050 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:02.164 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:02.448 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:05:02.448 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:05:02.565 [main] ReportManager - Type "standard_userfghfjgmkifjcdmnkrtjgfmdkjrhfndejrhfndjfdfndjrehnfjdhenfcdbrnhfcdrjfhrnkkkkkkkkkkkkkngfyhnkju98765678iplhtrfghn@#$%jfdhnrf" into "Username".
+[INFO ] 2024-02-12 15:05:02.883 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:03.026 [main] ReportManager - Type "secret_sauce" into "Password".
+[INFO ] 2024-02-12 15:05:03.178 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:03.185 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743102987_MaxLimitForUsernameField_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:05:03.190 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: MaxLimitForUsernameField'
+[INFO ] 2024-02-12 15:05:03.191 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                             Finished Execution of Test Method: 'Test_Scenarios.T01_Login.MaxLimitForUsernameField'                             
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:03.206 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '5 out of 8' test cases in the current suite                                        
+                                        Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidPassword'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:03.315 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:03.416 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:03.552 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:03.689 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:05:03.690 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:05:03.696 [main] ReportManager - Type "standard_user" into "Username".
+[INFO ] 2024-02-12 15:05:04.014 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:04.175 [main] ReportManager - Type "sekvnjk" into "Password".
+[INFO ] 2024-02-12 15:05:04.450 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:04.457 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743104255_MaxLimitForUsernameField_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:05:04.463 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: MaxLimitForUsernameField'
+[INFO ] 2024-02-12 15:05:04.463 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                             Finished Execution of Test Method: 'Test_Scenarios.T01_Login.MaxLimitForUsernameField'                             
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:04.480 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '5 out of 8' test cases in the current suite                                        
+                                        Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidPassword'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:04.483 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:04.589 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:04.842 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:04.858 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:05:04.859 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:05:04.985 [main] ReportManager - Type "standard_user" into "Username".
+[INFO ] 2024-02-12 15:05:05.323 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:05.475 [main] ReportManager - Type "sekvnjk" into "Password".
+[INFO ] 2024-02-12 15:05:05.689 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:05.695 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743105470_loginWithInvalidPassword_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:05:05.700 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: loginWithInvalidPassword'
+[INFO ] 2024-02-12 15:05:05.701 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                             Finished Execution of Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidPassword'                             
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:05.712 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '6 out of 8' test cases in the current suite                                        
+                                   Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidPasswordAndUsername'                                   
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:05.762 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:05.895 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:06.119 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:06.182 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:05:06.183 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:05:06.258 [main] ReportManager - Type "Marena" into "Username".
+[INFO ] 2024-02-12 15:05:06.370 [main] ReportManager - Navigate to url "https://www.saucedemo.com/".
+[INFO ] 2024-02-12 15:05:06.378 [main] ReportManager - Setting "attemptClearBeforeTyping" property with "true".
+[INFO ] 2024-02-12 15:05:06.389 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: setup'
+[INFO ] 2024-02-12 15:05:06.524 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 8' test cases in the current suite                                        
+                                           Test Method: 'Test_Scenarios.T01_Login.EmptyPasswordField'                                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:06.650 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:06.809 [main] ReportManager - Type "P@ssw0rd" into "Password".
+[INFO ] 2024-02-12 15:05:07.087 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:07.093 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743106826_loginWithInvalidPassword_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:05:07.098 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: loginWithInvalidPassword'
+[INFO ] 2024-02-12 15:05:07.098 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                             Finished Execution of Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidPassword'                             
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:07.111 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '6 out of 8' test cases in the current suite                                        
+                                   Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidPasswordAndUsername'                                   
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:07.168 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:07.272 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:07.318 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:07.472 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:07.538 [main] ReportManager - Type "standard_user" into "Username".
+[INFO ] 2024-02-12 15:05:07.565 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:05:07.566 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:05:07.624 [main] ReportManager - Type "Marena" into "Username".
+[INFO ] 2024-02-12 15:05:07.920 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:07.936 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:08.030 [main] ReportManager - Type into "Password".
+[INFO ] 2024-02-12 15:05:08.083 [main] ReportManager - Type "P@ssw0rd" into "Password".
+[INFO ] 2024-02-12 15:05:08.319 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:08.326 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743108101_loginWithInvalidPasswordAndUsername_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:05:08.330 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: loginWithInvalidPasswordAndUsername'
+[INFO ] 2024-02-12 15:05:08.331 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                        Finished Execution of Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidPasswordAndUsername'                        
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:08.341 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '7 out of 8' test cases in the current suite                                        
+                                        Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidUsername'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:08.373 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:08.436 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:08.469 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:08.585 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:08.712 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:08.764 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:05:08.764 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:05:08.877 [main] ReportManager - Type "standahfdjn" into "Username".
+[INFO ] 2024-02-12 15:05:09.102 [main] ReportManager - Get text "Epic sadface: Password is required" from "Epic sadface: Password is required".
+[INFO ] 2024-02-12 15:05:09.105 [main] ReportManager - Expected "Epic sadface: Password is required", and actual "Epic sadface: Password is required"
+[INFO ] 2024-02-12 15:05:09.297 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:09.447 [main] ReportManager - Type "secret_sauce" into "Password".
+[INFO ] 2024-02-12 15:05:09.579 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:09.585 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743109388_loginWithInvalidPasswordAndUsername_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:05:09.591 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: loginWithInvalidPasswordAndUsername'
+[INFO ] 2024-02-12 15:05:09.592 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                        Finished Execution of Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidPasswordAndUsername'                        
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:09.600 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '7 out of 8' test cases in the current suite                                        
+                                        Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidUsername'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:09.749 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:09.854 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:09.983 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:10.128 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:05:10.129 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:05:10.135 [main] ReportManager - Type "standahfdjn" into "Username".
+[INFO ] 2024-02-12 15:05:10.437 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:10.596 [main] ReportManager - Type "secret_sauce" into "Password".
+[INFO ] 2024-02-12 15:05:10.863 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:10.869 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743110663_loginWithInvalidUsername_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:05:10.872 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:10.876 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: loginWithInvalidUsername'
+[INFO ] 2024-02-12 15:05:10.876 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                             Finished Execution of Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidUsername'                             
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:10.891 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '8 out of 8' test cases in the current suite                                        
+                                           Test Method: 'Test_Scenarios.T01_Login.loginWithValidData'                                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:10.974 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:11.249 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:05:11.250 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:05:11.254 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:11.408 [main] ReportManager - Type "standard_user" into "Username".
+[INFO ] 2024-02-12 15:05:11.716 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:11.909 [main] ReportManager - Type "secret_sauce" into "Password".
+[INFO ] 2024-02-12 15:05:12.017 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:12.023 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743111794_loginWithInvalidUsername_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:05:12.038 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: loginWithInvalidUsername'
+[INFO ] 2024-02-12 15:05:12.039 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                             Finished Execution of Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidUsername'                             
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:12.053 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '8 out of 8' test cases in the current suite                                        
+                                           Test Method: 'Test_Scenarios.T01_Login.loginWithValidData'                                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:12.231 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:12.242 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Password is required' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Password is required". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:12.322 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743110124_EmptyPasswordField_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:05:12.364 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: EmptyPasswordField'
+[INFO ] 2024-02-12 15:05:12.365 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                Finished Execution of Test Method: 'Test_Scenarios.T01_Login.EmptyPasswordField'                                
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:12.492 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:12.527 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:12.729 [main] ReportManager - Get current url "https://www.saucedemo.com/inventory.html".
+[INFO ] 2024-02-12 15:05:12.731 [main] ReportManager - Expected "https://www.saucedemo.com/inventory.html", and actual "https://www.saucedemo.com/inventory.html"
+[INFO ] 2024-02-12 15:05:12.786 [main] ReportManager - Type "standard_user" into "Username".
+[INFO ] 2024-02-12 15:05:12.844 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '2 out of 8' test cases in the current suite                                        
+                                           Test Method: 'Test_Scenarios.T01_Login.EmptyUserNameField'                                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:13.133 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:13.260 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:13.282 [main] ReportManager - Type "secret_sauce" into "Password".
+[INFO ] 2024-02-12 15:05:13.378 [main] ReportManager - Type "" into "Username".
+[INFO ] 2024-02-12 15:05:13.568 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:13.632 [main] ReportManager - Assertion "ValidateBrowserAttribute" PASSED. Expected "Value Should be 'https://www.saucedemo.com/inventory.html' for the 'currenturl' attribute" and Actual "https://www.saucedemo.com/inventory.html". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:13.642 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743113071_loginWithValidData_ValidateBrowserAttribute_passed'
+[INFO ] 2024-02-12 15:05:13.647 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: loginWithValidData'
+[INFO ] 2024-02-12 15:05:13.649 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                Finished Execution of Test Method: 'Test_Scenarios.T01_Login.loginWithValidData'                                
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:13.658 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                Starting execution of close configuration method                                                
+                                                        'Test_Scenarios.T01_Login.close'                                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:13.685 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:13.810 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:13.916 [main] ReportManager - Type "secret_sauce" into "Password".
+[INFO ] 2024-02-12 15:05:13.981 [main] ReportManager - Get current url "https://www.saucedemo.com/inventory.html".
+[INFO ] 2024-02-12 15:05:13.982 [main] ReportManager - Expected "https://www.saucedemo.com/inventory.html", and actual "https://www.saucedemo.com/inventory.html"
+[INFO ] 2024-02-12 15:05:14.091 [main] ReportManager - Successfully Closed Driver.
+[INFO ] 2024-02-12 15:05:14.095 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: close'
+[INFO ] 2024-02-12 15:05:14.098 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                           Starting execution of engine teardown configuration method                                           
+                                        'com.shaft.listeners.internal.ConfigurationHelper.engineTeardown'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:14.100 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log'
+[INFO ] 2024-02-12 15:05:14.105 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/logs/log4j.log"".
+[INFO ] 2024-02-12 15:05:14.106 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "target/logs/log4j.log"".

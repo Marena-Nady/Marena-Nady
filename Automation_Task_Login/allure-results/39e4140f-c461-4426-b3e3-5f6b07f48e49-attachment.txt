@@ -1,0 +1,983 @@
+[INFO ] 2024-02-12 15:04:25.054 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                    Powered by [1mSHAFT v.8.1.20240115[22m                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:25.090 [main] ReportManager - Checking for engine updates...
+[INFO ] 2024-02-12 15:04:25.123 [main] ReportManager - Engine Update check done for the day. 👍
+[INFO ] 2024-02-12 15:04:26.446 [main] ReportManager - Loaded OpenCV "opencv_java490".
+[INFO ] 2024-02-12 15:04:26.447 [main] ReportManager - Initializing Allure Reporting Environment...
+[INFO ] 2024-02-12 15:04:26.822 [main] ReportManager - Initializing Extent Reporting Environment...
+[INFO ] 2024-02-12 15:04:28.116 [main] ReportManager - Initializing Summary Reporting Environment...
+[INFO ] 2024-02-12 15:04:28.190 [main] ReportManager - TestNG run detected...
+[INFO ] 2024-02-12 15:04:28.941 [main] Utils - [TestNG] Running:
+  C:\Users\Marena.Nady\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-02-12 15:04:29.099 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of suite setup configuration method                                             
+                                          'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:29.301 [main] ReportManager - Initializing Important Links...
+[INFO ] 2024-02-12 15:04:29.318 [main] ReportManager - Initializing Properties...
+[INFO ] 2024-02-12 15:04:29.657 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                Starting execution of setup configuration method                                                
+                                                        'Test_Scenarios.T01_Login.setup'                                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:29.751 [main] ReportManager - Setting "targetOperatingSystem" property with "windows".
+[INFO ] 2024-02-12 15:04:29.815 [main] ReportManager - Capabilities {acceptInsecureCerts: true, browserName: chrome, goog:chromeOptions: {args: [--start-maximized], extensions: [], prefs: {download.default_directory: C:\Users\Marena.Nady\IdeaPr..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: normal, timeouts: {pageLoad: 60000, script: 60000}, unhandledPromptBehavior: ignore, webSocketUrl: true}
+[INFO ] 2024-02-12 15:04:29.818 [main] ReportManager - Attempting to run locally on: "windows | Chrome".
+[INFO ] 2024-02-12 15:04:29.820 [main] ReportManager - Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection...
+[INFO ] 2024-02-12 15:04:31.540 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                    Powered by [1mSHAFT v.8.1.20240115[22m                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:31.585 [main] ReportManager - Checking for engine updates...
+[INFO ] 2024-02-12 15:04:31.641 [main] ReportManager - Engine Update check done for the day. 👍
+[INFO ] 2024-02-12 15:04:33.256 [main] ReportManager - Loaded OpenCV "opencv_java490".
+[INFO ] 2024-02-12 15:04:33.258 [main] ReportManager - Initializing Allure Reporting Environment...
+[INFO ] 2024-02-12 15:04:33.764 [main] ReportManager - Initializing Extent Reporting Environment...
+[INFO ] 2024-02-12 15:04:35.705 [main] ReportManager - Initializing Summary Reporting Environment...
+[INFO ] 2024-02-12 15:04:35.735 [main] ReportManager - TestNG run detected...
+[INFO ] 2024-02-12 15:04:36.233 [main] Utils - [TestNG] Running:
+  C:\Users\Marena.Nady\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-02-12 15:04:36.327 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of suite setup configuration method                                             
+                                          'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:36.451 [main] ReportManager - Initializing Important Links...
+[INFO ] 2024-02-12 15:04:36.470 [main] ReportManager - Initializing Properties...
+[INFO ] 2024-02-12 15:04:37.221 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                Starting execution of setup configuration method                                                
+                                                        'Test_Scenarios.T01_Login.setup'                                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:37.308 [main] ReportManager - Setting "targetOperatingSystem" property with "windows".
+[INFO ] 2024-02-12 15:04:37.362 [main] ReportManager - Capabilities {acceptInsecureCerts: true, browserName: chrome, goog:chromeOptions: {args: [--start-maximized], extensions: [], prefs: {download.default_directory: C:\Users\Marena.Nady\IdeaPr..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: normal, timeouts: {pageLoad: 60000, script: 60000}, unhandledPromptBehavior: ignore, webSocketUrl: true}
+[INFO ] 2024-02-12 15:04:37.365 [main] ReportManager - Attempting to run locally on: "windows | Chrome".
+[INFO ] 2024-02-12 15:04:37.367 [main] ReportManager - Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection...
+[INFO ] 2024-02-12 15:04:42.985 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                    Powered by [1mSHAFT v.8.1.20240115[22m                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:43.048 [main] ReportManager - Checking for engine updates...
+[INFO ] 2024-02-12 15:04:43.099 [main] ReportManager - Engine Update check done for the day. 👍
+[WARN ] 2024-02-12 15:04:43.522 [main] ReportManager - Feb 12, 2024 3:04:43 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+[WARN ] 2024-02-12 15:04:43.523 [main] ReportManager - WARNING: Unable to find an exact match for CDP version 121, returning the closest version; found: 120; Please update to a Selenium version that supports CDP version 121
+[INFO ] 2024-02-12 15:04:43.563 [main] ReportManager - Successfully Opened: "windows | Chrome".
+[INFO ] 2024-02-12 15:04:43.832 [main] ReportManager - Target URL: "https://www.saucedemo.com/"
+[INFO ] 2024-02-12 15:04:44.357 [main] ReportManager - Initial URL: "about:blank"
+[INFO ] 2024-02-12 15:04:45.506 [main] ReportManager - Loaded OpenCV "opencv_java490".
+[INFO ] 2024-02-12 15:04:45.508 [main] ReportManager - Initializing Allure Reporting Environment...
+[WARN ] 2024-02-12 15:04:46.274 [main] ReportManager - Feb 12, 2024 3:04:46 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+[WARN ] 2024-02-12 15:04:46.275 [main] ReportManager - WARNING: Unable to find an exact match for CDP version 121, returning the closest version; found: 120; Please update to a Selenium version that supports CDP version 121
+[INFO ] 2024-02-12 15:04:46.300 [main] ReportManager - Successfully Opened: "windows | Chrome".
+[INFO ] 2024-02-12 15:04:46.618 [main] ReportManager - Initializing Extent Reporting Environment...
+[INFO ] 2024-02-12 15:04:46.754 [main] ReportManager - Target URL: "https://www.saucedemo.com/"
+[INFO ] 2024-02-12 15:04:46.823 [main] ReportManager - Navigate to url "https://www.saucedemo.com/".
+[INFO ] 2024-02-12 15:04:46.828 [main] ReportManager - Setting "attemptClearBeforeTyping" property with "true".
+[INFO ] 2024-02-12 15:04:46.837 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: setup'
+[INFO ] 2024-02-12 15:04:46.948 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 8' test cases in the current suite                                        
+                                           Test Method: 'Test_Scenarios.T01_Login.EmptyPasswordField'                                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:47.315 [main] ReportManager - Initial URL: "about:blank"
+[INFO ] 2024-02-12 15:04:48.037 [main] ReportManager - Initializing Summary Reporting Environment...
+[INFO ] 2024-02-12 15:04:48.085 [main] ReportManager - TestNG run detected...
+[INFO ] 2024-02-12 15:04:48.208 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:04:48.472 [main] ReportManager - Type "standard_user" into "Username".
+[INFO ] 2024-02-12 15:04:48.647 [main] Utils - [TestNG] Running:
+  C:\Users\Marena.Nady\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-02-12 15:04:48.765 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of suite setup configuration method                                             
+                                          'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:48.971 [main] ReportManager - Initializing Important Links...
+[INFO ] 2024-02-12 15:04:48.999 [main] ReportManager - Initializing Properties...
+[INFO ] 2024-02-12 15:04:49.000 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:04:49.193 [main] ReportManager - Type into "Password".
+[INFO ] 2024-02-12 15:04:49.310 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                Starting execution of setup configuration method                                                
+                                                        'Test_Scenarios.T01_Login.setup'                                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:49.399 [main] ReportManager - Setting "targetOperatingSystem" property with "windows".
+[INFO ] 2024-02-12 15:04:49.461 [main] ReportManager - Capabilities {acceptInsecureCerts: true, browserName: chrome, goog:chromeOptions: {args: [--start-maximized], extensions: [], prefs: {download.default_directory: C:\Users\Marena.Nady\IdeaPr..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: normal, timeouts: {pageLoad: 60000, script: 60000}, unhandledPromptBehavior: ignore, webSocketUrl: true}
+[INFO ] 2024-02-12 15:04:49.463 [main] ReportManager - Attempting to run locally on: "windows | Chrome".
+[INFO ] 2024-02-12 15:04:49.464 [main] ReportManager - Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection...
+[INFO ] 2024-02-12 15:04:49.669 [main] ReportManager - Navigate to url "https://www.saucedemo.com/".
+[INFO ] 2024-02-12 15:04:49.677 [main] ReportManager - Setting "attemptClearBeforeTyping" property with "true".
+[INFO ] 2024-02-12 15:04:49.688 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: setup'
+[INFO ] 2024-02-12 15:04:49.790 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 8' test cases in the current suite                                        
+                                           Test Method: 'Test_Scenarios.T01_Login.EmptyPasswordField'                                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:49.898 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:04:50.069 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:04:50.602 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:04:50.602 [main] ReportManager - Get text "Epic sadface: Password is required" from "Epic sadface: Password is required".
+[INFO ] 2024-02-12 15:04:50.604 [main] ReportManager - Expected "Epic sadface: Password is required", and actual "Epic sadface: Password is required"
+[INFO ] 2024-02-12 15:04:50.756 [main] ReportManager - Type "standard_user" into "Username".
+[INFO ] 2024-02-12 15:04:51.372 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:04:51.549 [main] ReportManager - Type into "Password".
+[INFO ] 2024-02-12 15:04:52.118 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:04:52.217 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:04:52.559 [main] ReportManager - Get text "Epic sadface: Password is required" from "Epic sadface: Password is required".
+[INFO ] 2024-02-12 15:04:52.561 [main] ReportManager - Expected "Epic sadface: Password is required", and actual "Epic sadface: Password is required"
+[INFO ] 2024-02-12 15:04:54.260 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Password is required' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Password is required". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:04:54.351 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743091920_EmptyPasswordField_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:04:54.371 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: EmptyPasswordField'
+[INFO ] 2024-02-12 15:04:54.372 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                Finished Execution of Test Method: 'Test_Scenarios.T01_Login.EmptyPasswordField'                                
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:54.788 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '2 out of 8' test cases in the current suite                                        
+                                           Test Method: 'Test_Scenarios.T01_Login.EmptyUserNameField'                                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[WARN ] 2024-02-12 15:04:55.199 [main] ReportManager - Feb 12, 2024 3:04:55 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+[WARN ] 2024-02-12 15:04:55.200 [main] ReportManager - WARNING: Unable to find an exact match for CDP version 121, returning the closest version; found: 120; Please update to a Selenium version that supports CDP version 121
+[INFO ] 2024-02-12 15:04:55.241 [main] ReportManager - Successfully Opened: "windows | Chrome".
+[INFO ] 2024-02-12 15:04:55.393 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:04:55.424 [main] ReportManager - Target URL: "https://www.saucedemo.com/"
+[INFO ] 2024-02-12 15:04:55.568 [main] ReportManager - Type "" into "Username".
+[INFO ] 2024-02-12 15:04:55.587 [main] ReportManager - Initial URL: "about:blank"
+[INFO ] 2024-02-12 15:04:55.915 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Password is required' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Password is required". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:04:55.969 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:04:55.995 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743093799_EmptyPasswordField_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:04:56.009 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: EmptyPasswordField'
+[INFO ] 2024-02-12 15:04:56.012 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                Finished Execution of Test Method: 'Test_Scenarios.T01_Login.EmptyPasswordField'                                
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:56.145 [main] ReportManager - Type "secret_sauce" into "Password".
+[INFO ] 2024-02-12 15:04:56.346 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '2 out of 8' test cases in the current suite                                        
+                                           Test Method: 'Test_Scenarios.T01_Login.EmptyUserNameField'                                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:56.458 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:04:56.573 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:04:56.706 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:04:56.829 [main] ReportManager - Type "" into "Username".
+[INFO ] 2024-02-12 15:04:56.857 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:04:56.859 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:04:57.127 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:04:57.292 [main] ReportManager - Type "secret_sauce" into "Password".
+[INFO ] 2024-02-12 15:04:57.583 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:04:57.584 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:04:57.594 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743097387_EmptyUserNameField_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:04:57.600 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: EmptyUserNameField'
+[INFO ] 2024-02-12 15:04:57.600 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                Finished Execution of Test Method: 'Test_Scenarios.T01_Login.EmptyUserNameField'                                
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:57.618 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '3 out of 8' test cases in the current suite                                        
+                                        Test Method: 'Test_Scenarios.T01_Login.MaxLimitForPasswordField'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:57.699 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:04:57.980 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:04:57.980 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:04:57.981 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:04:58.144 [main] ReportManager - Type "standard_user" into "Username".
+[INFO ] 2024-02-12 15:04:58.467 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:04:58.789 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:04:58.804 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743098583_EmptyUserNameField_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:04:58.811 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: EmptyUserNameField'
+[INFO ] 2024-02-12 15:04:58.812 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                Finished Execution of Test Method: 'Test_Scenarios.T01_Login.EmptyUserNameField'                                
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:58.831 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '3 out of 8' test cases in the current suite                                        
+                                        Test Method: 'Test_Scenarios.T01_Login.MaxLimitForPasswordField'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:04:58.944 [main] ReportManager - Type "secret_saucedfghjkdfjhgrbdnmfgkjvhfbrdenmrk5turielk,dfmngtbv gnfmvcjfhdrbnmftgbrdnemdxbfrhjnmedfkjgnvf" into "Password".
+[INFO ] 2024-02-12 15:04:59.210 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:04:59.242 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:04:59.343 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:04:59.377 [main] ReportManager - Type "standard_user" into "Username".
+[INFO ] 2024-02-12 15:04:59.624 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:04:59.624 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:04:59.666 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:00.145 [main] ReportManager - Type "secret_saucedfghjkdfjhgrbdnmfgkjvhfbrdenmrk5turielk,dfmngtbv gnfmvcjfhdrbnmftgbrdnemdxbfrhjnmedfkjgnvf" into "Password".
+[INFO ] 2024-02-12 15:05:00.350 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:00.371 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743100176_MaxLimitForPasswordField_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:05:00.375 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: MaxLimitForPasswordField'
+[INFO ] 2024-02-12 15:05:00.376 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                             Finished Execution of Test Method: 'Test_Scenarios.T01_Login.MaxLimitForPasswordField'                             
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:00.386 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '4 out of 8' test cases in the current suite                                        
+                                        Test Method: 'Test_Scenarios.T01_Login.MaxLimitForUsernameField'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:00.428 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:00.524 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:00.739 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:00.814 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:05:00.815 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:05:01.305 [main] ReportManager - Type "standard_userfghfjgmkifjcdmnkrtjgfmdkjrhfndejrhfndjfdfndjrehnfjdhenfcdbrnhfcdrjfhrnkkkkkkkkkkkkkngfyhnkju98765678iplhtrfghn@#$%jfdhnrf" into "Username".
+[INFO ] 2024-02-12 15:05:01.598 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:01.608 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743101402_MaxLimitForPasswordField_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:05:01.617 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: MaxLimitForPasswordField'
+[INFO ] 2024-02-12 15:05:01.617 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                             Finished Execution of Test Method: 'Test_Scenarios.T01_Login.MaxLimitForPasswordField'                             
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:01.625 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:01.629 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '4 out of 8' test cases in the current suite                                        
+                                        Test Method: 'Test_Scenarios.T01_Login.MaxLimitForUsernameField'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:01.778 [main] ReportManager - Type "secret_sauce" into "Password".
+[INFO ] 2024-02-12 15:05:02.011 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:02.050 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:02.164 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:02.448 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:05:02.448 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:05:02.565 [main] ReportManager - Type "standard_userfghfjgmkifjcdmnkrtjgfmdkjrhfndejrhfndjfdfndjrehnfjdhenfcdbrnhfcdrjfhrnkkkkkkkkkkkkkngfyhnkju98765678iplhtrfghn@#$%jfdhnrf" into "Username".
+[INFO ] 2024-02-12 15:05:02.883 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:03.026 [main] ReportManager - Type "secret_sauce" into "Password".
+[INFO ] 2024-02-12 15:05:03.178 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:03.185 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743102987_MaxLimitForUsernameField_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:05:03.190 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: MaxLimitForUsernameField'
+[INFO ] 2024-02-12 15:05:03.191 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                             Finished Execution of Test Method: 'Test_Scenarios.T01_Login.MaxLimitForUsernameField'                             
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:03.206 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '5 out of 8' test cases in the current suite                                        
+                                        Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidPassword'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:03.315 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:03.416 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:03.552 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:03.689 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:05:03.690 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:05:03.696 [main] ReportManager - Type "standard_user" into "Username".
+[INFO ] 2024-02-12 15:05:04.014 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:04.175 [main] ReportManager - Type "sekvnjk" into "Password".
+[INFO ] 2024-02-12 15:05:04.450 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:04.457 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743104255_MaxLimitForUsernameField_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:05:04.463 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: MaxLimitForUsernameField'
+[INFO ] 2024-02-12 15:05:04.463 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                             Finished Execution of Test Method: 'Test_Scenarios.T01_Login.MaxLimitForUsernameField'                             
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:04.480 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '5 out of 8' test cases in the current suite                                        
+                                        Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidPassword'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:04.483 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:04.589 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:04.842 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:04.858 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:05:04.859 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:05:04.985 [main] ReportManager - Type "standard_user" into "Username".
+[INFO ] 2024-02-12 15:05:05.323 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:05.475 [main] ReportManager - Type "sekvnjk" into "Password".
+[INFO ] 2024-02-12 15:05:05.689 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:05.695 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743105470_loginWithInvalidPassword_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:05:05.700 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: loginWithInvalidPassword'
+[INFO ] 2024-02-12 15:05:05.701 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                             Finished Execution of Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidPassword'                             
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:05.712 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '6 out of 8' test cases in the current suite                                        
+                                   Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidPasswordAndUsername'                                   
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:05.762 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:05.895 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:06.119 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:06.182 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:05:06.183 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:05:06.258 [main] ReportManager - Type "Marena" into "Username".
+[INFO ] 2024-02-12 15:05:06.370 [main] ReportManager - Navigate to url "https://www.saucedemo.com/".
+[INFO ] 2024-02-12 15:05:06.378 [main] ReportManager - Setting "attemptClearBeforeTyping" property with "true".
+[INFO ] 2024-02-12 15:05:06.389 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: setup'
+[INFO ] 2024-02-12 15:05:06.524 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 8' test cases in the current suite                                        
+                                           Test Method: 'Test_Scenarios.T01_Login.EmptyPasswordField'                                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:06.650 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:06.809 [main] ReportManager - Type "P@ssw0rd" into "Password".
+[INFO ] 2024-02-12 15:05:07.087 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:07.093 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743106826_loginWithInvalidPassword_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:05:07.098 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: loginWithInvalidPassword'
+[INFO ] 2024-02-12 15:05:07.098 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                             Finished Execution of Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidPassword'                             
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:07.111 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '6 out of 8' test cases in the current suite                                        
+                                   Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidPasswordAndUsername'                                   
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:07.168 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:07.272 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:07.318 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:07.472 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:07.538 [main] ReportManager - Type "standard_user" into "Username".
+[INFO ] 2024-02-12 15:05:07.565 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:05:07.566 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:05:07.624 [main] ReportManager - Type "Marena" into "Username".
+[INFO ] 2024-02-12 15:05:07.920 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:07.936 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:08.030 [main] ReportManager - Type into "Password".
+[INFO ] 2024-02-12 15:05:08.083 [main] ReportManager - Type "P@ssw0rd" into "Password".
+[INFO ] 2024-02-12 15:05:08.319 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:08.326 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743108101_loginWithInvalidPasswordAndUsername_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:05:08.330 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: loginWithInvalidPasswordAndUsername'
+[INFO ] 2024-02-12 15:05:08.331 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                        Finished Execution of Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidPasswordAndUsername'                        
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:08.341 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '7 out of 8' test cases in the current suite                                        
+                                        Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidUsername'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:08.373 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:08.436 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:08.469 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:08.585 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:08.712 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:08.764 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:05:08.764 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:05:08.877 [main] ReportManager - Type "standahfdjn" into "Username".
+[INFO ] 2024-02-12 15:05:09.102 [main] ReportManager - Get text "Epic sadface: Password is required" from "Epic sadface: Password is required".
+[INFO ] 2024-02-12 15:05:09.105 [main] ReportManager - Expected "Epic sadface: Password is required", and actual "Epic sadface: Password is required"
+[INFO ] 2024-02-12 15:05:09.297 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:09.447 [main] ReportManager - Type "secret_sauce" into "Password".
+[INFO ] 2024-02-12 15:05:09.579 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:09.585 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743109388_loginWithInvalidPasswordAndUsername_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:05:09.591 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: loginWithInvalidPasswordAndUsername'
+[INFO ] 2024-02-12 15:05:09.592 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                        Finished Execution of Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidPasswordAndUsername'                        
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:09.600 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '7 out of 8' test cases in the current suite                                        
+                                        Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidUsername'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:09.749 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:09.854 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:09.983 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:10.128 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:05:10.129 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:05:10.135 [main] ReportManager - Type "standahfdjn" into "Username".
+[INFO ] 2024-02-12 15:05:10.437 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:10.596 [main] ReportManager - Type "secret_sauce" into "Password".
+[INFO ] 2024-02-12 15:05:10.863 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:10.869 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743110663_loginWithInvalidUsername_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:05:10.872 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:10.876 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: loginWithInvalidUsername'
+[INFO ] 2024-02-12 15:05:10.876 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                             Finished Execution of Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidUsername'                             
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:10.891 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '8 out of 8' test cases in the current suite                                        
+                                           Test Method: 'Test_Scenarios.T01_Login.loginWithValidData'                                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:10.974 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:11.249 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:05:11.250 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:05:11.254 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:11.408 [main] ReportManager - Type "standard_user" into "Username".
+[INFO ] 2024-02-12 15:05:11.716 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:11.909 [main] ReportManager - Type "secret_sauce" into "Password".
+[INFO ] 2024-02-12 15:05:12.017 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:12.023 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743111794_loginWithInvalidUsername_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:05:12.038 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: loginWithInvalidUsername'
+[INFO ] 2024-02-12 15:05:12.039 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                             Finished Execution of Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidUsername'                             
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:12.053 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '8 out of 8' test cases in the current suite                                        
+                                           Test Method: 'Test_Scenarios.T01_Login.loginWithValidData'                                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:12.231 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:12.242 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Password is required' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Password is required". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:12.322 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743110124_EmptyPasswordField_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:05:12.364 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: EmptyPasswordField'
+[INFO ] 2024-02-12 15:05:12.365 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                Finished Execution of Test Method: 'Test_Scenarios.T01_Login.EmptyPasswordField'                                
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:12.492 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:12.527 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:12.729 [main] ReportManager - Get current url "https://www.saucedemo.com/inventory.html".
+[INFO ] 2024-02-12 15:05:12.731 [main] ReportManager - Expected "https://www.saucedemo.com/inventory.html", and actual "https://www.saucedemo.com/inventory.html"
+[INFO ] 2024-02-12 15:05:12.786 [main] ReportManager - Type "standard_user" into "Username".
+[INFO ] 2024-02-12 15:05:12.844 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '2 out of 8' test cases in the current suite                                        
+                                           Test Method: 'Test_Scenarios.T01_Login.EmptyUserNameField'                                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:13.133 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:13.260 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:13.282 [main] ReportManager - Type "secret_sauce" into "Password".
+[INFO ] 2024-02-12 15:05:13.378 [main] ReportManager - Type "" into "Username".
+[INFO ] 2024-02-12 15:05:13.568 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:13.632 [main] ReportManager - Assertion "ValidateBrowserAttribute" PASSED. Expected "Value Should be 'https://www.saucedemo.com/inventory.html' for the 'currenturl' attribute" and Actual "https://www.saucedemo.com/inventory.html". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:13.642 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743113071_loginWithValidData_ValidateBrowserAttribute_passed'
+[INFO ] 2024-02-12 15:05:13.647 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: loginWithValidData'
+[INFO ] 2024-02-12 15:05:13.649 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                Finished Execution of Test Method: 'Test_Scenarios.T01_Login.loginWithValidData'                                
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:13.658 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                Starting execution of close configuration method                                                
+                                                        'Test_Scenarios.T01_Login.close'                                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:13.685 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:13.810 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:13.916 [main] ReportManager - Type "secret_sauce" into "Password".
+[INFO ] 2024-02-12 15:05:13.981 [main] ReportManager - Get current url "https://www.saucedemo.com/inventory.html".
+[INFO ] 2024-02-12 15:05:13.982 [main] ReportManager - Expected "https://www.saucedemo.com/inventory.html", and actual "https://www.saucedemo.com/inventory.html"
+[INFO ] 2024-02-12 15:05:14.091 [main] ReportManager - Successfully Closed Driver.
+[INFO ] 2024-02-12 15:05:14.095 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: close'
+[INFO ] 2024-02-12 15:05:14.098 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                           Starting execution of engine teardown configuration method                                           
+                                        'com.shaft.listeners.internal.ConfigurationHelper.engineTeardown'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:14.100 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log'
+[INFO ] 2024-02-12 15:05:14.105 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/logs/log4j.log"".
+[INFO ] 2024-02-12 15:05:14.106 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "target/logs/log4j.log"".
+[INFO ] 2024-02-12 15:05:14.113 [main] ReportManager - File Action "ReadFileAsByteArray" successfully performed. With the following test data "File Path: "C:\Users\Marena.Nady\IdeaProjects\Automation_Task_Login\target\logs\log4j.log"".
+[INFO ] 2024-02-12 15:05:14.115 [main] ReportManager - File Action "DeleteFile" successfully performed. With the following test data "Target File Path: "target/logs/log4j.log", file was not deleted.".
+[INFO ] 2024-02-12 15:05:14.117 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log: 20240212-150514'
+[INFO ] 2024-02-12 15:05:14.216 [main] ReportManager - Moved the mouse to the middle of the element.
+[DEBUG] 2024-02-12 15:05:14.235 [main] cache - Couldn't find template in cache for "spark/spark.spa.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:14.238 [main] cache - TemplateLoader.findTemplateSource("spark/spark.spa_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:14.243 [main] cache - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:14.246 [main] cache - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+[DEBUG] 2024-02-12 15:05:14.246 [main] cache - Loading template for "spark/spark.spa.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+[INFO ] 2024-02-12 15:05:14.342 [main] ReportManager - Click "Login".
+[DEBUG] 2024-02-12 15:05:14.630 [main] cache - Couldn't find template in cache for "commons/commons-variables.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:14.632 [main] cache - TemplateLoader.findTemplateSource("commons/commons-variables_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:14.632 [main] cache - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:14.633 [main] cache - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+[DEBUG] 2024-02-12 15:05:14.634 [main] cache - Loading template for "commons/commons-variables.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+[INFO ] 2024-02-12 15:05:14.671 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:05:14.672 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:05:14.866 [main] ReportManager - Assertion "ValidateBrowserAttribute" PASSED. Expected "Value Should be 'https://www.saucedemo.com/inventory.html' for the 'currenturl' attribute" and Actual "https://www.saucedemo.com/inventory.html". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:14.875 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743114257_loginWithValidData_ValidateBrowserAttribute_passed'
+[INFO ] 2024-02-12 15:05:14.881 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: loginWithValidData'
+[INFO ] 2024-02-12 15:05:14.885 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                Finished Execution of Test Method: 'Test_Scenarios.T01_Login.loginWithValidData'                                
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:14.906 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                Starting execution of close configuration method                                                
+                                                        'Test_Scenarios.T01_Login.close'                                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[DEBUG] 2024-02-12 15:05:15.057 [main] cache - Couldn't find template in cache for "commons/commons-macros.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:15.058 [main] cache - TemplateLoader.findTemplateSource("commons/commons-macros_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.058 [main] cache - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.059 [main] cache - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+[DEBUG] 2024-02-12 15:05:15.059 [main] cache - Loading template for "commons/commons-macros.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+[DEBUG] 2024-02-12 15:05:15.073 [main] cache - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:15.074 [main] cache - TemplateLoader.findTemplateSource("spark/macros/attributes_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.075 [main] cache - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.075 [main] cache - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+[DEBUG] 2024-02-12 15:05:15.075 [main] cache - Loading template for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+[DEBUG] 2024-02-12 15:05:15.078 [main] cache - Couldn't find template in cache for "spark/macros/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:15.079 [main] cache - TemplateLoader.findTemplateSource("spark/macros/log_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.080 [main] cache - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.080 [main] cache - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+[DEBUG] 2024-02-12 15:05:15.081 [main] cache - Loading template for "spark/macros/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+[DEBUG] 2024-02-12 15:05:15.088 [main] cache - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:15.089 [main] cache - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.090 [main] cache - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.090 [main] cache - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+[DEBUG] 2024-02-12 15:05:15.090 [main] cache - Loading template for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+[DEBUG] 2024-02-12 15:05:15.095 [main] cache - "spark/macros/log.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-02-12 15:05:15.095 [main] cache - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:15.096 [main] cache - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.097 [main] cache - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.098 [main] cache - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+[DEBUG] 2024-02-12 15:05:15.098 [main] cache - Loading template for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+[DEBUG] 2024-02-12 15:05:15.113 [main] cache - Couldn't find template in cache for "spark/partials/head.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:15.114 [main] cache - TemplateLoader.findTemplateSource("spark/partials/head_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.115 [main] cache - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.116 [main] cache - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+[DEBUG] 2024-02-12 15:05:15.116 [main] cache - Loading template for "spark/partials/head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+[DEBUG] 2024-02-12 15:05:15.130 [main] cache - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:15.131 [main] cache - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.131 [main] cache - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.132 [main] cache - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+[DEBUG] 2024-02-12 15:05:15.132 [main] cache - Loading template for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+[DEBUG] 2024-02-12 15:05:15.140 [main] cache - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:15.141 [main] cache - TemplateLoader.findTemplateSource("spark/partials/navbar_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.141 [main] cache - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.142 [main] cache - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+[DEBUG] 2024-02-12 15:05:15.142 [main] cache - Loading template for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+[DEBUG] 2024-02-12 15:05:15.164 [main] cache - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:15.166 [main] cache - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.170 [main] cache - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.171 [main] cache - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+[DEBUG] 2024-02-12 15:05:15.172 [main] cache - Loading template for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+[DEBUG] 2024-02-12 15:05:15.225 [main] cache - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:15.227 [main] cache - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.227 [main] cache - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.229 [main] cache - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+[DEBUG] 2024-02-12 15:05:15.229 [main] cache - Loading template for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+[DEBUG] 2024-02-12 15:05:15.346 [main] cache - Couldn't find template in cache for "spark/partials/test.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:15.347 [main] cache - TemplateLoader.findTemplateSource("spark/partials/test_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.348 [main] cache - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.349 [main] cache - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+[DEBUG] 2024-02-12 15:05:15.350 [main] cache - Loading template for "spark/partials/test.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+[DEBUG] 2024-02-12 15:05:15.407 [main] cache - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:15.408 [main] cache - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.409 [main] cache - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.410 [main] cache - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+[DEBUG] 2024-02-12 15:05:15.413 [main] cache - Loading template for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+[DEBUG] 2024-02-12 15:05:15.466 [main] cache - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-02-12 15:05:15.472 [main] cache - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-02-12 15:05:15.480 [main] cache - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-02-12 15:05:15.485 [main] cache - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-02-12 15:05:15.491 [main] cache - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-02-12 15:05:15.493 [main] cache - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-02-12 15:05:15.501 [main] cache - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-02-12 15:05:15.507 [main] cache - Couldn't find template in cache for "spark/partials/exception.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:15.508 [main] cache - TemplateLoader.findTemplateSource("spark/partials/exception_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.508 [main] cache - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.509 [main] cache - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+[DEBUG] 2024-02-12 15:05:15.509 [main] cache - Loading template for "spark/partials/exception.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+[DEBUG] 2024-02-12 15:05:15.510 [main] cache - Couldn't find template in cache for "spark/partials/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:15.511 [main] cache - TemplateLoader.findTemplateSource("spark/partials/log_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.511 [main] cache - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.511 [main] cache - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+[DEBUG] 2024-02-12 15:05:15.511 [main] cache - Loading template for "spark/partials/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+[DEBUG] 2024-02-12 15:05:15.513 [main] cache - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:15.513 [main] cache - TemplateLoader.findTemplateSource("spark/partials/scripts_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.514 [main] cache - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.514 [main] cache - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+[DEBUG] 2024-02-12 15:05:15.515 [main] cache - Loading template for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+[DEBUG] 2024-02-12 15:05:15.517 [main] cache - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:15.517 [main] cache - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.518 [main] cache - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.519 [main] cache - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+[DEBUG] 2024-02-12 15:05:15.519 [main] cache - Loading template for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+[INFO ] 2024-02-12 15:05:15.541 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "allure-results/cucumberReport.html"".
+[INFO ] 2024-02-12 15:05:15.553 [main] ReportManager - Successfully created attachment 'HTML - Checkpoints Report'
+[INFO ] 2024-02-12 15:05:15.558 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: engineTeardown'
+[INFO ] 2024-02-12 15:05:15.598 [main] ReportManager - ===============================================
+[INFO ] 2024-02-12 15:05:15.599 [main] ReportManager - Default Suite
+[INFO ] 2024-02-12 15:05:15.599 [main] ReportManager - Total tests run: 8, Passes: 8, Failures: 0, Skips: 0
+[INFO ] 2024-02-12 15:05:15.599 [main] ReportManager - ===============================================
+[INFO ] 2024-02-12 15:05:15.608 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative File Path: "execution-summary/ExecutionSummaryReport_12-02-2024_15-05-15-0605-PM.html"".
+[INFO ] 2024-02-12 15:05:15.615 [main] ReportManager - File Action "WriteToFile" successfully performed. With the following test data "Target File Path: "C:\Users\Marena.Nady\IdeaProjects\Automation_Task_Login\execution-summary\ExecutionSummaryReport_12-02-2024_15-05-15-0605-PM.html"".
+[INFO ] 2024-02-12 15:05:15.639 [main] ReportManager - Executing: ".\execution-summary/ExecutionSummaryReport_*.html" locally.
+[INFO ] 2024-02-12 15:05:15.645 [main] ReportManager - Successfully Closed Driver.
+[INFO ] 2024-02-12 15:05:15.648 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: close'
+[INFO ] 2024-02-12 15:05:15.651 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                           Starting execution of engine teardown configuration method                                           
+                                        'com.shaft.listeners.internal.ConfigurationHelper.engineTeardown'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:15.652 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log'
+[INFO ] 2024-02-12 15:05:15.654 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/logs/log4j.log"".
+[INFO ] 2024-02-12 15:05:15.654 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "target/logs/log4j.log"".
+[INFO ] 2024-02-12 15:05:15.660 [main] ReportManager - File Action "ReadFileAsByteArray" successfully performed. With the following test data "File Path: "C:\Users\Marena.Nady\IdeaProjects\Automation_Task_Login\target\logs\log4j.log"".
+[INFO ] 2024-02-12 15:05:15.661 [main] ReportManager - File Action "DeleteFile" successfully performed. With the following test data "Target File Path: "target/logs/log4j.log", file was not deleted.".
+[INFO ] 2024-02-12 15:05:15.665 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log: 20240212-150515'
+[INFO ] 2024-02-12 15:05:15.754 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:15.767 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743115509_EmptyUserNameField_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:05:15.773 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: EmptyUserNameField'
+[DEBUG] 2024-02-12 15:05:15.774 [main] cache - Couldn't find template in cache for "spark/spark.spa.ftl"("en_US", UTF-8, parsed); will try to load it.
+[INFO ] 2024-02-12 15:05:15.774 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                Finished Execution of Test Method: 'Test_Scenarios.T01_Login.EmptyUserNameField'                                
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[DEBUG] 2024-02-12 15:05:15.777 [main] cache - TemplateLoader.findTemplateSource("spark/spark.spa_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.779 [main] cache - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:15.780 [main] cache - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+[DEBUG] 2024-02-12 15:05:15.781 [main] cache - Loading template for "spark/spark.spa.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+[INFO ] 2024-02-12 15:05:15.793 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '3 out of 8' test cases in the current suite                                        
+                                        Test Method: 'Test_Scenarios.T01_Login.MaxLimitForPasswordField'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[DEBUG] 2024-02-12 15:05:16.120 [main] cache - Couldn't find template in cache for "commons/commons-variables.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:16.122 [main] cache - TemplateLoader.findTemplateSource("commons/commons-variables_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.123 [main] cache - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.123 [main] cache - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+[DEBUG] 2024-02-12 15:05:16.123 [main] cache - Loading template for "commons/commons-variables.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+[INFO ] 2024-02-12 15:05:16.212 [main] ReportManager - Terminal Action "PerformTerminalCommands" successfully performed. With the following test data "Host Name: "localHost" | Command: ".\execution-summary/ExecutionSummaryReport_*.html" | Exit Status: "0"".
+[INFO ] 2024-02-12 15:05:16.213 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                         Test Execution Summary Results                                                         
+                                              Total Cases: 8 --> Passed: 8 | Failed: 0 | Skipped: 0                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:16.214 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                           This test run was powered by [1mSHAFT v.8.1.20240115[22m                                           
+                               SHAFT [1;4mis and will always be 100% FREE[22;24m for commercial and private use                               
+                                                   in compliance with the [1mMIT license[22m                                                   
+                                   Visit SHAFT's user guide [4mhttps://shafthq.github.io/[24m to learn more                                   
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:16.215 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:16.409 [main] ReportManager - Type "standard_user" into "Username".
+[DEBUG] 2024-02-12 15:05:16.568 [main] cache - Couldn't find template in cache for "commons/commons-macros.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:16.569 [main] cache - TemplateLoader.findTemplateSource("commons/commons-macros_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.570 [main] cache - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.571 [main] cache - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+[DEBUG] 2024-02-12 15:05:16.571 [main] cache - Loading template for "commons/commons-macros.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+[DEBUG] 2024-02-12 15:05:16.594 [main] cache - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:16.601 [main] cache - TemplateLoader.findTemplateSource("spark/macros/attributes_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.602 [main] cache - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.602 [main] cache - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+[DEBUG] 2024-02-12 15:05:16.602 [main] cache - Loading template for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+[DEBUG] 2024-02-12 15:05:16.605 [main] cache - Couldn't find template in cache for "spark/macros/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:16.607 [main] cache - TemplateLoader.findTemplateSource("spark/macros/log_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.608 [main] cache - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.609 [main] cache - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+[DEBUG] 2024-02-12 15:05:16.610 [main] cache - Loading template for "spark/macros/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+[DEBUG] 2024-02-12 15:05:16.616 [main] cache - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:16.617 [main] cache - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.619 [main] cache - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.620 [main] cache - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+[DEBUG] 2024-02-12 15:05:16.620 [main] cache - Loading template for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+[DEBUG] 2024-02-12 15:05:16.633 [main] cache - "spark/macros/log.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-02-12 15:05:16.633 [main] cache - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:16.634 [main] cache - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.635 [main] cache - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.635 [main] cache - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+[DEBUG] 2024-02-12 15:05:16.635 [main] cache - Loading template for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+[DEBUG] 2024-02-12 15:05:16.654 [main] cache - Couldn't find template in cache for "spark/partials/head.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:16.655 [main] cache - TemplateLoader.findTemplateSource("spark/partials/head_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.658 [main] cache - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.659 [main] cache - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+[DEBUG] 2024-02-12 15:05:16.659 [main] cache - Loading template for "spark/partials/head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+[DEBUG] 2024-02-12 15:05:16.669 [main] cache - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:16.670 [main] cache - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.671 [main] cache - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.672 [main] cache - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+[DEBUG] 2024-02-12 15:05:16.672 [main] cache - Loading template for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+[DEBUG] 2024-02-12 15:05:16.674 [main] cache - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:16.675 [main] cache - TemplateLoader.findTemplateSource("spark/partials/navbar_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.676 [main] cache - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.676 [main] cache - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+[DEBUG] 2024-02-12 15:05:16.676 [main] cache - Loading template for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+[DEBUG] 2024-02-12 15:05:16.694 [main] cache - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:16.696 [main] cache - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.699 [main] cache - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.700 [main] cache - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+[DEBUG] 2024-02-12 15:05:16.700 [main] cache - Loading template for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+[DEBUG] 2024-02-12 15:05:16.738 [main] cache - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:16.740 [main] cache - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.741 [main] cache - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.742 [main] cache - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+[DEBUG] 2024-02-12 15:05:16.742 [main] cache - Loading template for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+[INFO ] 2024-02-12 15:05:16.828 [main] ReportManager - text cleared Using Native Clear
+[DEBUG] 2024-02-12 15:05:16.841 [main] cache - Couldn't find template in cache for "spark/partials/test.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:16.843 [main] cache - TemplateLoader.findTemplateSource("spark/partials/test_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.844 [main] cache - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.845 [main] cache - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+[DEBUG] 2024-02-12 15:05:16.845 [main] cache - Loading template for "spark/partials/test.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+[DEBUG] 2024-02-12 15:05:16.863 [main] cache - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:16.864 [main] cache - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.866 [main] cache - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.866 [main] cache - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+[DEBUG] 2024-02-12 15:05:16.866 [main] cache - Loading template for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+[DEBUG] 2024-02-12 15:05:16.886 [main] cache - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-02-12 15:05:16.890 [main] cache - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-02-12 15:05:16.895 [main] cache - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-02-12 15:05:16.899 [main] cache - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-02-12 15:05:16.903 [main] cache - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-02-12 15:05:16.913 [main] cache - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-02-12 15:05:16.918 [main] cache - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2024-02-12 15:05:16.923 [main] cache - Couldn't find template in cache for "spark/partials/exception.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:16.925 [main] cache - TemplateLoader.findTemplateSource("spark/partials/exception_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.926 [main] cache - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.926 [main] cache - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+[DEBUG] 2024-02-12 15:05:16.927 [main] cache - Loading template for "spark/partials/exception.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+[DEBUG] 2024-02-12 15:05:16.930 [main] cache - Couldn't find template in cache for "spark/partials/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:16.931 [main] cache - TemplateLoader.findTemplateSource("spark/partials/log_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.931 [main] cache - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.932 [main] cache - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+[DEBUG] 2024-02-12 15:05:16.932 [main] cache - Loading template for "spark/partials/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+[DEBUG] 2024-02-12 15:05:16.936 [main] cache - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:16.936 [main] cache - TemplateLoader.findTemplateSource("spark/partials/scripts_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.937 [main] cache - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.938 [main] cache - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+[DEBUG] 2024-02-12 15:05:16.939 [main] cache - Loading template for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+[DEBUG] 2024-02-12 15:05:16.949 [main] cache - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-02-12 15:05:16.951 [main] cache - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.952 [main] cache - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+[DEBUG] 2024-02-12 15:05:16.952 [main] cache - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+[DEBUG] 2024-02-12 15:05:16.953 [main] cache - Loading template for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Marena.Nady/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+[INFO ] 2024-02-12 15:05:16.996 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "allure-results/cucumberReport.html"".
+[INFO ] 2024-02-12 15:05:17.011 [main] ReportManager - Successfully created attachment 'HTML - Checkpoints Report'
+[INFO ] 2024-02-12 15:05:17.016 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: engineTeardown'
+[INFO ] 2024-02-12 15:05:17.087 [main] ReportManager - ===============================================
+[INFO ] 2024-02-12 15:05:17.089 [main] ReportManager - Default Suite
+[INFO ] 2024-02-12 15:05:17.089 [main] ReportManager - Total tests run: 8, Passes: 8, Failures: 0, Skips: 0
+[INFO ] 2024-02-12 15:05:17.089 [main] ReportManager - ===============================================
+[INFO ] 2024-02-12 15:05:17.111 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative File Path: "execution-summary/ExecutionSummaryReport_12-02-2024_15-05-17-0103-PM.html"".
+[INFO ] 2024-02-12 15:05:17.124 [main] ReportManager - File Action "WriteToFile" successfully performed. With the following test data "Target File Path: "C:\Users\Marena.Nady\IdeaProjects\Automation_Task_Login\execution-summary\ExecutionSummaryReport_12-02-2024_15-05-17-0103-PM.html"".
+[INFO ] 2024-02-12 15:05:17.167 [main] ReportManager - Executing: ".\execution-summary/ExecutionSummaryReport_*.html" locally.
+[INFO ] 2024-02-12 15:05:17.354 [main] ReportManager - Type "secret_saucedfghjkdfjhgrbdnmfgkjvhfbrdenmrk5turielk,dfmngtbv gnfmvcjfhdrbnmftgbrdnemdxbfrhjnmedfkjgnvf" into "Password".
+[INFO ] 2024-02-12 15:05:17.633 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:17.720 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:17.969 [main] ReportManager - Terminal Action "PerformTerminalCommands" successfully performed. With the following test data "Host Name: "localHost" | Command: ".\execution-summary/ExecutionSummaryReport_*.html" | Exit Status: "1"".
+[ERROR] 2024-02-12 15:05:17.971 [main] AllureLifecycle - Could not start step: no test case running
+[ERROR] 2024-02-12 15:05:17.971 [main] AllureLifecycle - Could not add attachment: no test is running
+[INFO ] 2024-02-12 15:05:17.973 [main] ReportManager - Successfully created attachment 'Terminal Action Actual Result - Command Log'
+[ERROR] 2024-02-12 15:05:17.974 [main] AllureLifecycle - Could not update step: no step running
+[ERROR] 2024-02-12 15:05:17.975 [main] AllureLifecycle - Could not stop step: no step running
+[INFO ] 2024-02-12 15:05:17.975 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                         Test Execution Summary Results                                                         
+                                              Total Cases: 8 --> Passed: 8 | Failed: 0 | Skipped: 0                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:17.976 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                           This test run was powered by [1mSHAFT v.8.1.20240115[22m                                           
+                               SHAFT [1;4mis and will always be 100% FREE[22;24m for commercial and private use                               
+                                                   in compliance with the [1mMIT license[22m                                                   
+                                   Visit SHAFT's user guide [4mhttps://shafthq.github.io/[24m to learn more                                   
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:18.113 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:05:18.114 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:05:19.147 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:19.157 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743118935_MaxLimitForPasswordField_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:05:19.162 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: MaxLimitForPasswordField'
+[INFO ] 2024-02-12 15:05:19.162 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                             Finished Execution of Test Method: 'Test_Scenarios.T01_Login.MaxLimitForPasswordField'                             
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:19.171 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '4 out of 8' test cases in the current suite                                        
+                                        Test Method: 'Test_Scenarios.T01_Login.MaxLimitForUsernameField'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:19.551 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:20.027 [main] ReportManager - Type "standard_userfghfjgmkifjcdmnkrtjgfmdkjrhfndejrhfndjfdfndjrehnfjdhenfcdbrnhfcdrjfhrnkkkkkkkkkkkkkngfyhnkju98765678iplhtrfghn@#$%jfdhnrf" into "Username".
+[INFO ] 2024-02-12 15:05:20.375 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:20.617 [main] ReportManager - Type "secret_sauce" into "Password".
+[INFO ] 2024-02-12 15:05:20.909 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:21.032 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:21.351 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:05:21.352 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:05:22.048 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:22.055 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743121894_MaxLimitForUsernameField_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:05:22.058 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: MaxLimitForUsernameField'
+[INFO ] 2024-02-12 15:05:22.058 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                             Finished Execution of Test Method: 'Test_Scenarios.T01_Login.MaxLimitForUsernameField'                             
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:22.071 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '5 out of 8' test cases in the current suite                                        
+                                        Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidPassword'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:22.422 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:22.561 [main] ReportManager - Type "standard_user" into "Username".
+[INFO ] 2024-02-12 15:05:22.878 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:23.006 [main] ReportManager - Type "sekvnjk" into "Password".
+[INFO ] 2024-02-12 15:05:23.280 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:23.371 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:23.653 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:05:23.654 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:05:24.392 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:24.398 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743124192_loginWithInvalidPassword_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:05:24.401 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: loginWithInvalidPassword'
+[INFO ] 2024-02-12 15:05:24.401 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                             Finished Execution of Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidPassword'                             
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:24.412 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '6 out of 8' test cases in the current suite                                        
+                                   Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidPasswordAndUsername'                                   
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:24.956 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:25.088 [main] ReportManager - Type "Marena" into "Username".
+[INFO ] 2024-02-12 15:05:25.390 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:25.522 [main] ReportManager - Type "P@ssw0rd" into "Password".
+[INFO ] 2024-02-12 15:05:25.821 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:25.917 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:26.190 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:05:26.191 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:05:26.905 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:26.911 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743126706_loginWithInvalidPasswordAndUsername_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:05:26.916 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: loginWithInvalidPasswordAndUsername'
+[INFO ] 2024-02-12 15:05:26.916 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                        Finished Execution of Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidPasswordAndUsername'                        
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:26.926 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '7 out of 8' test cases in the current suite                                        
+                                        Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidUsername'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:27.261 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:27.405 [main] ReportManager - Type "standahfdjn" into "Username".
+[INFO ] 2024-02-12 15:05:27.717 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:27.859 [main] ReportManager - Type "secret_sauce" into "Password".
+[INFO ] 2024-02-12 15:05:28.117 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:28.234 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:28.554 [main] ReportManager - Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service".
+[INFO ] 2024-02-12 15:05:28.555 [main] ReportManager - Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service"
+[INFO ] 2024-02-12 15:05:29.288 [main] ReportManager - Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:29.294 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743129098_loginWithInvalidUsername_ValidateElementAttribute_passed'
+[INFO ] 2024-02-12 15:05:29.298 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: loginWithInvalidUsername'
+[INFO ] 2024-02-12 15:05:29.299 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                             Finished Execution of Test Method: 'Test_Scenarios.T01_Login.loginWithInvalidUsername'                             
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:29.309 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '8 out of 8' test cases in the current suite                                        
+                                           Test Method: 'Test_Scenarios.T01_Login.loginWithValidData'                                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:29.654 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:29.812 [main] ReportManager - Type "standard_user" into "Username".
+[INFO ] 2024-02-12 15:05:30.095 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-02-12 15:05:30.234 [main] ReportManager - Type "secret_sauce" into "Password".
+[INFO ] 2024-02-12 15:05:30.499 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-02-12 15:05:30.747 [main] ReportManager - Click "Login".
+[INFO ] 2024-02-12 15:05:30.863 [main] ReportManager - Get current url "https://www.saucedemo.com/inventory.html".
+[INFO ] 2024-02-12 15:05:30.864 [main] ReportManager - Expected "https://www.saucedemo.com/inventory.html", and actual "https://www.saucedemo.com/inventory.html"
+[INFO ] 2024-02-12 15:05:31.709 [main] ReportManager - Assertion "ValidateBrowserAttribute" PASSED. Expected "Value Should be 'https://www.saucedemo.com/inventory.html' for the 'currenturl' attribute" and Actual "https://www.saucedemo.com/inventory.html". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-02-12 15:05:31.719 [main] ReportManager - Successfully created attachment 'Screenshot - 1707743131213_loginWithValidData_ValidateBrowserAttribute_passed'
+[INFO ] 2024-02-12 15:05:31.724 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: loginWithValidData'
+[INFO ] 2024-02-12 15:05:31.725 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                Finished Execution of Test Method: 'Test_Scenarios.T01_Login.loginWithValidData'                                
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:31.735 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                Starting execution of close configuration method                                                
+                                                        'Test_Scenarios.T01_Login.close'                                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:32.098 [main] ReportManager - Successfully Closed Driver.
+[INFO ] 2024-02-12 15:05:32.102 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: close'
+[INFO ] 2024-02-12 15:05:32.105 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                           Starting execution of engine teardown configuration method                                           
+                                        'com.shaft.listeners.internal.ConfigurationHelper.engineTeardown'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-02-12 15:05:32.107 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log'
+[INFO ] 2024-02-12 15:05:32.109 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/logs/log4j.log"".
+[INFO ] 2024-02-12 15:05:32.109 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "target/logs/log4j.log"".

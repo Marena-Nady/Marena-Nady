@@ -1,0 +1,35 @@
+{
+  "EmptyUserNameField": {
+  "username": "",
+    "password": "secret_sauce"
+  },
+
+  "EmptyPasswordField": {
+    "username": "standard_user",
+    "password": ""
+  },
+  "loginWithInvalidUsername": {
+    "username": "standahfdjn",
+    "password": "secret_sauce"
+  },
+  "loginWithInvalidPassword": {
+    "username": "standard_user",
+    "password": "sekvnjk"
+  },
+  "loginWithInvalidPasswordAndUsername": {
+    "username": "Marena",
+    "password": "P@ssw0rd"
+  },
+  "MaxLimitForUsernameField": {
+    "username": "standard_userfghfjgmkifjcdmnkrtjgfmdkjrhfndejrhfndjfdfndjrehnfjdhenfcdbrnhfcdrjfhrnkkkkkkkkkkkkkngfyhnkju98765678iplhtrfghn@#$%jfdhnrf",
+    "password": "secret_sauce"
+  },
+  "MaxLimitForPasswordField": {
+    "username": "standard_user",
+    "password": "secret_saucedfghjkdfjhgrbdnmfgkjvhfbrdenmrk5turielk,dfmngtbv gnfmvcjfhdrbnmftgbrdnemdxbfrhjnmedfkjgnvf "
+  },
+  "loginWithValidData": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  }
+}

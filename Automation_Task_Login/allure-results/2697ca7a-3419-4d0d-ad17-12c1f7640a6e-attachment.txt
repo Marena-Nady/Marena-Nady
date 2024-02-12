@@ -1,0 +1,17 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '3 out of 8' test cases in the current suite                                        
+                                        Test Method: 'Test_Scenarios.T01_Login.MaxLimitForPasswordField'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] text cleared Using Native Clear @12-02-2024 15:04:59.0210 PM
+[ReportManager] Type "standard_user" into "Username". @12-02-2024 15:04:59.0376 PM
+[ReportManager] text cleared Using Native Clear @12-02-2024 15:04:59.0666 PM
+[ReportManager] Type "secret_saucedfghjkdfjhgrbdnmfgkjvhfbrdenmrk5turielk,dfmngtbv gnfmvcjfhdrbnmftgbrdnemdxbfrhjnmedfkjgnvf" into "Password". @12-02-2024 15:05:00.0145 PM
+[ReportManager] Moved the mouse to the middle of the element. @12-02-2024 15:05:00.0428 PM
+[ReportManager] Click "Login". @12-02-2024 15:05:00.0524 PM
+[ReportManager] Get text "Epic sadface: Username and password do not match any user in this service" from "Epic sadface: Username and password do not match any user in this service". @12-02-2024 15:05:00.0814 PM
+[ReportManager] Expected "Epic sadface: Username and password do not match any user in this service", and actual "Epic sadface: Username and password do not match any user in this service" @12-02-2024 15:05:00.0815 PM
+[ReportManager] Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Username and password do not match any user in this service' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Username and password do not match any user in this service". Comparison Type "EQUALS". Validation Type "POSITIVE". @12-02-2024 15:05:01.0597 PM
+[ReportManager] Assertion Passed: The Element located by "By.xpath: //button[@class="error-button"]//parent:: h3" text is equal to "Epic sadface: Username and password do not match any user in this service". @12-02-2024 15:05:01.0600 PM
+[ReportManager] Successfully created attachment 'Screenshot - 1707743101402_MaxLimitForPasswordField_ValidateElementAttribute_passed' @12-02-2024 15:05:01.0608 PM

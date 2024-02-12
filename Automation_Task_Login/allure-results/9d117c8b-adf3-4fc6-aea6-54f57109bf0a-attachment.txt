@@ -1,0 +1,17 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 8' test cases in the current suite                                        
+                                           Test Method: 'Test_Scenarios.T01_Login.EmptyPasswordField'                                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] text cleared Using Native Clear @12-02-2024 15:04:50.0602 PM
+[ReportManager] Type "standard_user" into "Username". @12-02-2024 15:04:50.0741 PM
+[ReportManager] text cleared Using Native Clear @12-02-2024 15:04:51.0371 PM
+[ReportManager] Type into "Password". @12-02-2024 15:04:51.0549 PM
+[ReportManager] Moved the mouse to the middle of the element. @12-02-2024 15:04:52.0118 PM
+[ReportManager] Click "Login". @12-02-2024 15:04:52.0215 PM
+[ReportManager] Get text "Epic sadface: Password is required" from "Epic sadface: Password is required". @12-02-2024 15:04:52.0559 PM
+[ReportManager] Expected "Epic sadface: Password is required", and actual "Epic sadface: Password is required" @12-02-2024 15:04:52.0561 PM
+[ReportManager] Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Epic sadface: Password is required' for the 'text' attribute, element locator 'By.xpath: //button[@class="error-button"]//parent:: h3'" and Actual "Epic sadface: Password is required". Comparison Type "EQUALS". Validation Type "POSITIVE". @12-02-2024 15:04:55.0914 PM
+[ReportManager] Assertion Passed: The Element located by "By.xpath: //button[@class="error-button"]//parent:: h3" text is equal to "Epic sadface: Password is required". @12-02-2024 15:04:55.0916 PM
+[ReportManager] Successfully created attachment 'Screenshot - 1707743093799_EmptyPasswordField_ValidateElementAttribute_passed' @12-02-2024 15:04:55.0994 PM
